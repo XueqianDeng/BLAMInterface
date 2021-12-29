@@ -18,5 +18,56 @@
     <ClCompile Include="..\main.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="d:\Desktop\OldVersion\KineReach Demo\Circle.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="d:\Desktop\OldVersion\KineReach Demo\CursorDispl.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="d:\Desktop\OldVersion\KineReach Demo\DataWriter.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="d:\Desktop\OldVersion\KineReach Demo\DynObj.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="d:\Desktop\OldVersion\KineReach Demo\Ellipse.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="d:\Desktop\OldVersion\KineReach Demo\ExtFile.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="d:\Desktop\OldVersion\KineReach Demo\HandCursor.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="d:\Desktop\OldVersion\KineReach Demo\Image.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="d:\Desktop\OldVersion\KineReach Demo\MouseInput.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="d:\Desktop\OldVersion\KineReach Demo\Object2D.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="d:\Desktop\OldVersion\KineReach Demo\Rect.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="d:\Desktop\OldVersion\KineReach Demo\Region2D.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="d:\Desktop\OldVersion\KineReach Demo\Sound.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="d:\Desktop\OldVersion\KineReach Demo\SpeedBar.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="d:\Desktop\OldVersion\KineReach Demo\TrackBird.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="d:\Desktop\OldVersion\KineReach Demo\TrakStar.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="d:\Desktop\OldVersion\KineReach Demo\Trial.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
