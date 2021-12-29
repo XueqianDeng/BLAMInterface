@@ -138,26 +138,6 @@
       <GenerateDebugInformation>true</GenerateDebugInformation>
     </Link>
   </ItemDefinitionGroup>
-  <ItemGroup>
-    <ClCompile Include="..\main.cpp" />
-    <ClCompile Include="d:\Desktop\OldVersion\KineReach Demo\Circle.cpp" />
-    <ClCompile Include="d:\Desktop\OldVersion\KineReach Demo\CursorDispl.cpp" />
-    <ClCompile Include="d:\Desktop\OldVersion\KineReach Demo\DataWriter.cpp" />
-    <ClCompile Include="d:\Desktop\OldVersion\KineReach Demo\DynObj.cpp" />
-    <ClCompile Include="d:\Desktop\OldVersion\KineReach Demo\Ellipse.cpp" />
-    <ClCompile Include="d:\Desktop\OldVersion\KineReach Demo\ExtFile.cpp" />
-    <ClCompile Include="d:\Desktop\OldVersion\KineReach Demo\HandCursor.cpp" />
-    <ClCompile Include="d:\Desktop\OldVersion\KineReach Demo\Image.cpp" />
-    <ClCompile Include="d:\Desktop\OldVersion\KineReach Demo\MouseInput.cpp" />
-    <ClCompile Include="d:\Desktop\OldVersion\KineReach Demo\Object2D.cpp" />
-    <ClCompile Include="d:\Desktop\OldVersion\KineReach Demo\Rect.cpp" />
-    <ClCompile Include="d:\Desktop\OldVersion\KineReach Demo\Region2D.cpp" />
-    <ClCompile Include="d:\Desktop\OldVersion\KineReach Demo\Sound.cpp" />
-    <ClCompile Include="d:\Desktop\OldVersion\KineReach Demo\SpeedBar.cpp" />
-    <ClCompile Include="d:\Desktop\OldVersion\KineReach Demo\TrackBird.cpp" />
-    <ClCompile Include="d:\Desktop\OldVersion\KineReach Demo\TrakStar.cpp" />
-    <ClCompile Include="d:\Desktop\OldVersion\KineReach Demo\Trial.cpp" />
-  </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
   </ImportGroup>
